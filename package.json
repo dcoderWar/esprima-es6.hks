@@ -1,0 +1,34 @@
+{
+  "name": "esprima.hks",
+  "version": "0.0.0",
+  "description": "a syntax valadation pre-commit hook",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "~0.6.2",
+    "esprima": "~1.0.4"
+  },
+  "devDependencies": {
+    "node-hooks": "0.0.9",
+    "beautify.hks": "0.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mcwhittemore/esprima.hks.git"
+  },
+  "keywords": [
+    "hook",
+    "git",
+    "pre-commit",
+    "validator",
+    "validation",
+    "esprima"
+  ],
+  "author": "Matthew Chase Whittmore <mcwhittemore@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mcwhittemore/esprima.hks/issues"
+  }
+}
