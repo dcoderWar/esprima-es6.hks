@@ -30,5 +30,11 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/mcwhittemore/esprima.hks/issues"
+  },
+  "hook-module": {
+    "script-type": "node",
+    "valid-for": [
+      "pre-commit"
+    ]
   }
 }
