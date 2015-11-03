@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "colors": "~0.6.2",
-    "esprima": "~1.0.4"
+    "esprima": "~2.7.0"
   },
   "devDependencies": {
     "node-hooks": "0.0.9",
