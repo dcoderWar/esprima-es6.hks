@@ -1,5 +1,5 @@
 {
-  "name": "esprima.hks",
+  "name": "esprima-es6.hks",
   "version": "0.0.0",
   "description": "a syntax valadation pre-commit hook",
   "main": "index.js",
