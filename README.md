@@ -1,4 +1,4 @@
-# Esprima.hks
+# Esprima-es6.hks - Updated dependencies
 
 Validate your javascript with each commit
 
